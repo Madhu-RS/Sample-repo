@@ -30,5 +30,30 @@ Bullet lists
 
 ## Create a repository
 
+Numbered lists
+
+1. In the upper-right corner of the page, Click the + drop-down menu, and select **New repository**.
+2. Type a short, memorable name for your repository. For example, 'Sample-repo'
+3. Optionally, add a desription of your repository. For example, 'My first repository on GitHub'.
+4. Choose a repository visibility as Public view.
+5. Select **Initialize this repository with a README**.
+6. Click **Create repository**.
+
+### Creating Content in a repository
+
+Bullet lists 
+
+- Type the content with the following markdown syntax # for Heading1, ## for Heading2 and ### for Heading3.
+- Use the markdown syntax * for Italics and ** for Bold to change the font style of the content.
+- Use the markdown syntax +,-,* for creating an unordered lists like bullet points in the content.
+- Use the markdown syntax 1,2,3....n for creating the ordered lists in the content.
+
+# Saving the repository file in the GitHub
+
+Bullet lists 
+
+- Review the content once before you save the repository file.
+- Fill the commit changes tab with message title just for the future reference. For example, Markdown sample edits.
+- Click on Commit changes button the changes done in the repository file gets updated.
 
 
