@@ -1,6 +1,6 @@
 # Sample-repo
 
-Installed Docker Desktop application as per the instruction mentioned in the installation procedural steps.
+Follow the below steps to install Docker desktop application:
 
 1. Double-click **Docker Desktop Installer.exe** to run the installer.
 2. When prompted, ensure the **Enable Hyper-V Windows Features** or the **Install required Windows components for WSL 2** option is selected on the Configuration page.
