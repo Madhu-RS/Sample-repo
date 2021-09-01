@@ -16,15 +16,15 @@ At the start of the installation there was an error message that application is 
 
 Installed the VM ware application which allows to run any application in any of the Windows Operating system.
 
-# Creation of GitHub account
+# Creating a GitHub account
 
-- Browse the link (https://github.com/) to create the GitHub account.
-- Click on Signup tab to create the account.
-- Enter the credentials like mail id, create password and username.
-- Enter OTP sent through the registered email id.
-- The account gets created and activated.
+1. Browse the link (https://github.com/) to create the GitHub account.
+2. Click on Signup tab to create the account.
+3. Enter the credentials like mail id, create password and username.
+4. Enter OTP sent through the registered email id.
+5. The account gets created and activated.
 
-## Create a repository
+## Creating a repository
 
 1. In the upper-right corner of the page, Click the + drop-down menu, and select **New repository**.
 2. Type a short, memorable name for your repository. For example, 'Sample-repo'
@@ -35,15 +35,15 @@ Installed the VM ware application which allows to run any application in any of 
 
 ### Creating Content in a repository
 
-- Type the content with the following markdown syntax # for Heading1, ## for Heading2 and ### for Heading3.
-- Use the markdown syntax * for Italics and ** for Bold to change the font style of the content.
-- Use the markdown syntax +,-,* for creating an unordered lists like bullet points in the content.
-- Use the markdown syntax 1,2,3....n for creating the ordered lists in the content.
+1. Type the content with the following markdown syntax # for Heading1, ## for Heading2 and ### for Heading3.
+2. Use the markdown syntax * for Italics and ** for Bold to change the font style of the content.
+3. Use the markdown syntax +,-,* for creating an unordered lists like bullet points in the content.
+4. Use the markdown syntax 1,2,3....n for creating the ordered lists in the content.
 
-# Saving the repository file in the GitHub
+# Saving the content in the repository
 
-- Review the content once before you save the repository file.
-- Fill the commit changes tab with message title just for the future reference. For example, Markdown sample edits.
-- Click on Commit changes button the changes done in the repository file gets updated.
+1. Review the content once before you save the repository file.
+2. Fill the commit changes tab with message title just for the future reference. For example, Markdown sample edits.
+3. Click on Commit changes button the changes done in the repository file gets updated.
 
 
