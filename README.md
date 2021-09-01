@@ -10,19 +10,19 @@ Follow the below steps to install Docker desktop application:
 
 ## Problems faced during installation of Docker desktop application
 
-At the start of the installation there was an error message that application is not supported for the 64-bit windows 8 configuration as the processor was not supporting to install the Docker desktop application.
+At the start of the Docker desktop application installation, there was an error message that the application does not support a 64-bit Windows 8 configuration.
 
 ### Trouble shooting the issue 
 
-Installed the VM ware application which allows to run any application in any of the Windows Operating system.
+Install the VM ware application which allows you to run any application on any of the Windows operating systems.
 
 # Creating a GitHub account
 
-1. Browse the link (https://github.com/) to create the GitHub account.
-2. Click on Signup tab to create the account.
-3. Enter the credentials like mail id, create password and username.
-4. Enter OTP sent through the registered email id.
-5. The account gets created and activated.
+1. Go to link (https://github.com/). 
+2. Click **Signup**.
+3. Enter your email ID, password, and username.
+4. Enter the OTP sent to your registered email id.
+5. The account is created and activated.
 
 ## Creating a repository
 
@@ -35,15 +35,15 @@ Installed the VM ware application which allows to run any application in any of 
 
 ### Creating Content in a repository
 
-1. Type the content with the following markdown syntax # for Heading1, ## for Heading2 and ### for Heading3.
-2. Use the markdown syntax * for Italics and ** for Bold to change the font style of the content.
-3. Use the markdown syntax +,-,* for creating an unordered lists like bullet points in the content.
-4. Use the markdown syntax 1,2,3....n for creating the ordered lists in the content.
+1. Type the content with the following markdown syntax '#' for Heading1, '##' for Heading2 and '###' for Heading3.
+2. Use the markdown syntax '*' for Italics and '**' for bold .
+3. Use the markdown syntax +,-,* to create an unordered lists in the content.
+4. Use the markdown syntax 1,2,3....n to create the ordered lists in the content.
 
 # Saving the content in the repository
 
-1. Review the content once before you save the repository file.
-2. Fill the commit changes tab with message title just for the future reference. For example, Markdown sample edits.
-3. Click on Commit changes button the changes done in the repository file gets updated.
+1. Review the content before you save the repository file.
+2. Fill the commit changes tab with message title just for the future reference. For example, 'Markdown sample edits'.
+3. Click **Commit changes** button and the changes made in the repository file are updated.
 
 
