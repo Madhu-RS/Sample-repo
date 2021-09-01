@@ -37,8 +37,8 @@ Install the VM ware application which allows you to run any application on any o
 
 1. Type the content with the following markdown syntax '#' for Heading1, '##' for Heading2 and '###' for Heading3.
 2. Use the markdown syntax '*' for Italics and '**' for bold .
-3. Use the markdown syntax +,-,* to create an unordered lists in the content.
-4. Use the markdown syntax 1,2,3....n to create the ordered lists in the content.
+3. Use the markdown syntax '+','-','*' to create an unordered lists in the content.
+4. Use the markdown syntax '1','2','3'....'n' to create the ordered lists in the content.
 
 # Saving the content in the repository
 
