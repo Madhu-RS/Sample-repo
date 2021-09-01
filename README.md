@@ -19,7 +19,7 @@ Install the VM ware application which allows you to run any application on any o
 # Creating a GitHub account
 
 1. Go to link (https://github.com/). 
-2. Click **Signup**.
+2. Click **Sign-up**.
 3. Enter your email ID, password, and username.
 4. Enter the OTP sent to your registered email id.
 5. The account is created and activated.
